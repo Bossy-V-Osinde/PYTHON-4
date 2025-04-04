@@ -1,4 +1,4 @@
-# Error Handling Lab
+# Example of handling file errors in Python
 def handle_file_error():
     # Input filename is fixed as input.txt
     input_filename = "input.txt"
@@ -19,3 +19,4 @@ def handle_file_error():
 
 # Call the function
 handle_file_error()
+
